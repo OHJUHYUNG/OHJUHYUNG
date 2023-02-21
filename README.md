@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 #7A1FA2
-<img src="https://img.shields.io/badge/Android-7A1FA2?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Aiqfome-7A1FA2?style=flat-square&logo=Aiqfome&logoColor=7A1FA2"/>
