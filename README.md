@@ -1,11 +1,11 @@
+<!-- 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=Welcome!&#160;🍎&fontAlign=70&fontColor=black&fontSize=40" />
+</p> -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=JuhyungOh🍎&fontAlign=70&fontColor=black" />
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&&section=header&text=Welcome!&#160;I'm&#160;Front-end&#160;developer&fontSize=45" />
 </p>
-
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&&section=header&text=JUHYUNG%20OH&fontSize=90" />
-</p> -->
 
 ##  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Contact Me
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<a href="https://velog.io/@juyh_yung5" target="_blank"><img src="https://img.shields.io/badge/Velog-black?style=for-the-badge&logo=Velog&logoColor=20C997"/></a> 
