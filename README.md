@@ -4,24 +4,27 @@
 </p> -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&&section=header&text=Welcome!&#160;I'm&#160;Front-end&#160;developer&fontSize=45" />
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&&section=header&text=🧸Welcome!🧸&fontSize=45" />
 </p>
 
-##  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Contact Me
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<a href="https://velog.io/@juyh_yung5" target="_blank"><img src="https://img.shields.io/badge/Velog-black?style=for-the-badge&logo=Velog&logoColor=20C997"/></a> 
+## <p align=center>`Front-end Developer` `Juhyung Oh`</p>
+
+## <p align=center>Contact Me</p>
+<p align=center>
+  <a href="https://velog.io/@juyh_yung5" target="_blank"><img src="https://img.shields.io/badge/Velog-black?style=for-the-badge&logo=Velog&logoColor=20C997"/></a> 
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=Gmail&logoColor=EA4335"/>
+</p>
 
-
-##  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Tech Stack
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+##  <p align=center>Tech Stack</p>
+<p align=center>
   <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=E34F26"/> &#160;
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/> &#160;
+  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=61DAFB"/> &#160;
+  <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=3178C6"/><br />
   <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=1572B6"/> &#160;
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/> &#160; <br />
-  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=61DAFB"/> &#160;
-  <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=3178C6"/> &#160;
   <img src="https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=Sass&logoColor=CC6699"/> &#160;
   <img src="https://img.shields.io/badge/styledcomponents-black?style=for-the-badge&logo=styled-components&logoColor=DB7093"/>
-
+</p>
 
 <br/>
 
