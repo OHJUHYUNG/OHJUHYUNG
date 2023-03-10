@@ -26,7 +26,7 @@
 
 ## <p align=center>🍎Contact Me🍎</p>
 <p align=center>
-  <a href="mailto:juuh.yng5@gmail.com">
+  <a href="mailto:juuh.yng5@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=Gmail&logoColor=EA4335"/></a> &nbsp;&nbsp;
   <a href="https://velog.io/@juyh_yung5" target="_blank"><img src="https://img.shields.io/badge/Velog-black?style=for-the-badge&logo=Velog&logoColor=20C997"/></a>
 </p>
